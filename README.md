@@ -8,3 +8,7 @@ Instruções https://www.notion.so/Desafio-02-Trabalhando-com-middlewares-4f89bf
 - Alterar o `title` e `deadline` de um *todo* existente;
 - Marcar um *todo* como feito;
 - Excluir um *todo*;
+
+### To start run
+
+`npm run dev`
